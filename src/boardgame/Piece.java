@@ -11,7 +11,7 @@ public class Piece {
 	}
 	
 	protected Board getBoard() { 
-		//somente class detntro do mesmo pacote ou sub classes terao acesso
+		//somente class dentro do mesmo pacote ou sub classes terao acesso
 		return board;
 	}
 	
